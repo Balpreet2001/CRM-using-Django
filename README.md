@@ -6,7 +6,6 @@ __________________________________________________________________
 
 
 
-
 ## Introduction
 This is a simple Django project that aims to provide basic CRUD application by providing a customer records form which can be used to add, update, delete customer information.
 ## How to install:
